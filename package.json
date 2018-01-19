@@ -1,0 +1,8 @@
+{
+  "name": "CUTT",
+  "version": "0.0.1",
+  "description": "chat under the tree",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
